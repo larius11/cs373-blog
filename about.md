@@ -8,12 +8,9 @@ I am a fourth-year student currently taking Debugging & Verifying Programs, Conc
 
 ### More Information
 
-When I have free time I enjoy playing video games, producing music, or watching Netflix. My favorite game is PlayerUnknownBattleGrounds even with all of its flaws. 
-![PUBG](/assets/pubg.jpg) 
-When it comes to music I produce all kinds of it but my favorite genre is hip-hop. 
-![Eminem](/assets/eminem.jpg) 
-As for my favorite thing to watch on Netflix, The Office (U.S.) is #1. 
-![The Office](/assets/office.jpg)
+* When I have free time I enjoy playing video games, producing music, or watching Netflix. My favorite game is PlayerUnknownBattleGrounds even with all of its flaws. ![PUBG](/assets/pubg.jpg) 
+* When it comes to music I produce all kinds of it but my favorite genre is hip-hop. ![Eminem](/assets/eminem.jpg) 
+* As for my favorite thing to watch on Netflix, The Office (U.S.) is #1. ![The Office](/assets/office.jpg)
 
 ### Contact me
 
