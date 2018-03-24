@@ -2,7 +2,6 @@
 layout: post
 title: REACT? Database? API?
 ---
-
 ## What did I do this past week?
 This past week I spent it finishing up the last tests before Spring Break and doing as much as I could of the project. My group and I met a couple times to clear up what needed to be done before going into a week of no school to ensure that we finished all of the chunk of work before we come back and have to stress about wrapping up the few little things before turning in. I have also been trying to catch up on laundry and all other regular life things so that I can actually relax and take some time off during Spring Break.
 
