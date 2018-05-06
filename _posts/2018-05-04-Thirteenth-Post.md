@@ -24,7 +24,7 @@ Definitely broke the 2,000 lines mark. Although, I worked on the back-end and ba
 Even though I do not enjoy using it much, React is a powerful tool that makes front end development streamlined. However, tt can be confusing if packages get out of control.
 
 ## What's the most useful Web dev tool that your group used that was not required?
-This (website)[https://flatuicolors.com/] was useful when refactoring the front end and making the website look more modern. 
+This [website](https://flatuicolors.com/) was useful when refactoring the front end and making the website look more modern. 
 
 ## If you could change one thing about the course, what would it be?
 I think the overall tools and packages should be more nailed down. It is nice to see groups making different and varied website so maybe give room for people to use different packages but provide more solid guidance as to what all the packages are going to need to do together.
